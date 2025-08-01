@@ -38,17 +38,17 @@ A spiritually intelligent chatbot built using the teachings of the **Bhagavad Gi
 
    ```
 2. Install Required Libraries
-
-```bash
-  pip install -r requirements.txt
-
-```
+   
+   ```bash
+     pip install -r requirements.txt
+   
+   ```
 3. Run the Application
 
-```bash
-  streamlit run app.py
-
-```
+   ```bash
+     streamlit run app.py
+   
+   ```
 
 🎯 Use Cases
 1. Daily spiritual guidance
